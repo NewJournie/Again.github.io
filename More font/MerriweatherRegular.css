@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'MerriweatherRegular';
+    src: url('fonts/MerriweatherRegular.eot');
+    src: url('fonts/MerriweatherRegular.eot') format('embedded-opentype'),
+         url('fonts/MerriweatherRegular.woff2') format('woff2'),
+         url('fonts/MerriweatherRegular.woff') format('woff'),
+         url('fonts/MerriweatherRegular.ttf') format('truetype'),
+         url('fonts/MerriweatherRegular.svg#MerriweatherRegular') format('svg');
+}
